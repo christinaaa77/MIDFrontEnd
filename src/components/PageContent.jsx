@@ -193,7 +193,7 @@ const PageContent = () => {
                 <img src="/img/gallery/img-1.jpg" alt />  
                 <div className="overlay">
                   <div className="icons">
-                    <a className="lightbox preview" href="public/img/gallery/img-1.jpg">
+                    <a className="lightbox preview" href="/img/gallery/img-1.jpg">
                       <i className="icon-eye" />
                     </a>
                     <a className="link" href="#">
@@ -210,7 +210,7 @@ const PageContent = () => {
                 <img src="/img/gallery/img-2.jpg" alt /> 
                 <div className="overlay">
                   <div className="icons">
-                    <a className="lightbox preview" href="public/img/gallery/img-2.jpg">
+                    <a className="lightbox preview" href="/img/gallery/img-2.jpg">
                       <i className="icon-eye" />
                     </a>
                     <a className="link" href="#">
@@ -227,7 +227,7 @@ const PageContent = () => {
                 <img src="/img/gallery/img-3.jpg" alt /> 
                 <div className="overlay">
                   <div className="icons">
-                    <a className="lightbox preview" href="public/img/gallery/img-3.jpg">
+                    <a className="lightbox preview" href="/img/gallery/img-3.jpg">
                       <i className="icon-eye" />
                     </a>
                     <a className="link" href="#">
@@ -244,7 +244,7 @@ const PageContent = () => {
                 <img src="/img/gallery/img-4.jpg" alt /> 
                 <div className="overlay">
                   <div className="icons">
-                    <a className="lightbox preview" href="public/img/gallery/img-4.jpg">
+                    <a className="lightbox preview" href="/img/gallery/img-4.jpg">
                       <i className="icon-eye" />
                     </a>
                     <a className="link" href="#">
@@ -261,7 +261,7 @@ const PageContent = () => {
                 <img src="/img/gallery/img-5.jpg" alt /> 
                 <div className="overlay">
                   <div className="icons">
-                    <a className="lightbox preview" href="public/img/gallery/img-5.jpg">
+                    <a className="lightbox preview" href="/img/gallery/img-5.jpg">
                       <i className="icon-eye" />
                     </a>
                     <a className="link" href="#">
@@ -278,7 +278,7 @@ const PageContent = () => {
                 <img src="/img/gallery/img-6.jpg" alt />
                 <div className="overlay">
                   <div className="icons">
-                    <a className="lightbox preview" href="public/img/gallery/img-6.jpg">
+                    <a className="lightbox preview" href="/img/gallery/img-6.jpg">
                       <i className="icon-eye" />
                     </a>
                     <a className="link" href="#">
